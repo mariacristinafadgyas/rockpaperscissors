@@ -16,3 +16,7 @@ These are:
 To change the player mode, go to dunder main.
 
 The user can choose how many rounds he wants to play the game. 
+
+## References
+
+I used [`Haoyi's Programming Blog`](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html) for the colors.
